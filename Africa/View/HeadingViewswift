@@ -1,0 +1,20 @@
+//
+//  HeadingvIEW.swift
+//  Africa
+//
+//  Created by Hassan Abdulwahab on 06/06/2022.
+//
+
+import SwiftUI
+
+struct HeadingvIEW: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+struct HeadingvIEW_Previews: PreviewProvider {
+    static var previews: some View {
+        HeadingvIEW()
+    }
+}
