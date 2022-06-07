@@ -43,6 +43,8 @@
 		F49DC793284E9635004CD30D /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC792284E9635004CD30D /* VideoListItemView.swift */; };
 		F49DC795284F5BC7004CD30D /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC794284F5BC6004CD30D /* VideoPlayerView.swift */; };
 		F49DC798284F6296004CD30D /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC797284F6295004CD30D /* VideoPlayerHelper.swift */; };
+		F49DC79A284F6E8C004CD30D /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC799284F6E8C004CD30D /* LocationModel.swift */; };
+		F49DC79C284F7EF7004CD30D /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC79B284F7EF7004CD30D /* MapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +86,8 @@
 		F49DC792284E9635004CD30D /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 		F49DC794284F5BC6004CD30D /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		F49DC797284F6295004CD30D /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		F49DC799284F6E8C004CD30D /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		F49DC79B284F7EF7004CD30D /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +195,7 @@
 				F49DC78E284E3C5C004CD30D /* ExternalWebLinkView.swift */,
 				F49DC792284E9635004CD30D /* VideoListItemView.swift */,
 				F49DC794284F5BC6004CD30D /* VideoPlayerView.swift */,
+				F49DC79B284F7EF7004CD30D /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -201,6 +206,7 @@
 				F49DC779284CC441004CD30D /* CoverImageModel.swift */,
 				F49DC780284CE093004CD30D /* AnimalModel.swift */,
 				F49DC790284E959D004CD30D /* VideoModel.swift */,
+				F49DC799284F6E8C004CD30D /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -317,9 +323,11 @@
 				F49DC798284F6296004CD30D /* VideoPlayerHelper.swift in Sources */,
 				F49DC78D284E32B8004CD30D /* InsetMapView.swift in Sources */,
 				F49DC742284CAA13004CD30D /* AfricaApp.swift in Sources */,
+				F49DC79C284F7EF7004CD30D /* MapAnnotationView.swift in Sources */,
 				F49DC78F284E3C5C004CD30D /* ExternalWebLinkView.swift in Sources */,
 				F49DC76E284CBB9B004CD30D /* VideoListView.swift in Sources */,
 				F49DC791284E959E004CD30D /* VideoModel.swift in Sources */,
+				F49DC79A284F6E8C004CD30D /* LocationModel.swift in Sources */,
 				F49DC772284CBBD6004CD30D /* GalleryView.swift in Sources */,
 				F49DC789284DAD80004CD30D /* InsetGalleryView.swift in Sources */,
 				F49DC77D284CC5D3004CD30D /* CodableBundleExtension.swift in Sources */,
