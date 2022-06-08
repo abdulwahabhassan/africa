@@ -45,6 +45,7 @@
 		F49DC798284F6296004CD30D /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC797284F6295004CD30D /* VideoPlayerHelper.swift */; };
 		F49DC79A284F6E8C004CD30D /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC799284F6E8C004CD30D /* LocationModel.swift */; };
 		F49DC79C284F7EF7004CD30D /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC79B284F7EF7004CD30D /* MapAnnotationView.swift */; };
+		F49DC79E2850D5A2004CD30D /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49DC79D2850D5A1004CD30D /* AnimalGridItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		F49DC797284F6295004CD30D /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		F49DC799284F6E8C004CD30D /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		F49DC79B284F7EF7004CD30D /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		F49DC79D2850D5A1004CD30D /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,6 +198,7 @@
 				F49DC792284E9635004CD30D /* VideoListItemView.swift */,
 				F49DC794284F5BC6004CD30D /* VideoPlayerView.swift */,
 				F49DC79B284F7EF7004CD30D /* MapAnnotationView.swift */,
+				F49DC79D2850D5A1004CD30D /* AnimalGridItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				F49DC77F284CDC3B004CD30D /* AnimalListItemView.swift in Sources */,
 				F49DC774284CBBEE004CD30D /* MainView.swift in Sources */,
 				F49DC78B284E2E86004CD30D /* InsetFactView.swift in Sources */,
+				F49DC79E2850D5A2004CD30D /* AnimalGridItemView.swift in Sources */,
 				F49DC777284CBFDF004CD30D /* CoverImageView.swift in Sources */,
 				F49DC77A284CC441004CD30D /* CoverImageModel.swift in Sources */,
 				F49DC783284DA17A004CD30D /* AnimalDetailView.swift in Sources */,
